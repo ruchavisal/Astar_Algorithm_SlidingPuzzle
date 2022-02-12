@@ -14,7 +14,3 @@ The Sliding 8-puzzle problem is a puzzle invented by Noyes Palmer Chapman. It is
 * Clone the repository
 * Go to the folder containing the code.
 * Open the terminal and and run command- py ASTAR.py
-* While inputting the initial and goal state, input them as a list with values separated by comma. 
-  For Example, if you want to input a goal state 1 2 3 4 5 6 7 8 0, you should input as a list as follows:
-  1,2,3,4,5,6,7,8,0
-* Select the heuristic of your choice. If you input any value besides 1, Manhattan heuristic will get selected automatically.
